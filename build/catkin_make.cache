@@ -1,0 +1,2 @@
+catkin_simple:rpg_trajectory_evaluation
+-DCATKIN_DEVEL_PREFIX=/home/hikari/rpg_trajectory_evaluation/devel -DCMAKE_INSTALL_PREFIX=/home/hikari/rpg_trajectory_evaluation/install -G Unix Makefiles
